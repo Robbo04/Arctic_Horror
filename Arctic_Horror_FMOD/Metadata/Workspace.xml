@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{1722314a-fe17-4f12-a196-38b78276c1bf}">
+		<property name="builtBanksOutputDirectory">
+			<value>../Arctic_Horror/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{dd4fd103-45e1-46e2-aa5f-eeb694d91cbf}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{a65e5472-63f5-4535-b7dd-4fe76f87c2af}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{697a0554-7e46-448c-bb2d-2c535e73737a}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{ade945a3-eca7-47b9-afdf-1cb35b78085a}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{472ccaf4-72e6-487f-a1b3-eb6487b48e7c}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{491bb751-a41e-482e-9a67-163de81267c8}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{33112720-4546-42f5-bcb1-2f6ccc835d79}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{d53afcd8-4468-40c3-a358-c19b09a6cc49}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{7e3ef92a-f1d4-476e-a6e3-a017a663dc9c}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{103e801c-401c-4818-bbe2-ef5e249c967a}</destination>
+		</relationship>
+	</object>
+</objects>
