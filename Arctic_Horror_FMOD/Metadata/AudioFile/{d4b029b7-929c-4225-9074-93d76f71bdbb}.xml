@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d4b029b7-929c-4225-9074-93d76f71bdbb}">
+		<property name="assetPath">
+			<value>FEETHmn-CONCRETE_AUDIOELK-Fs Concrete Shoes Pant Ruffles 11_AUDIOELK_AUDIOELK.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.5568958333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{33112720-4546-42f5-bcb1-2f6ccc835d79}</destination>
+		</relationship>
+	</object>
+</objects>
