@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{081643ba-5b77-44b9-a802-c30a526fe07a}">
+		<property name="name">
+			<value>MovementState</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ade945a3-eca7-47b9-afdf-1cb35b78085a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d285fc1f-eaf3-4f83-8d5b-d27102e67bd9}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d285fc1f-eaf3-4f83-8d5b-d27102e67bd9}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Standing</value>
+			<value>Crouched</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
