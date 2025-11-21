@@ -1,0 +1,3 @@
+At the dawn of the 21st century the effects of climate change have hit an all time high, flooding and heatwaves have spread across Europe causing rises in disease transmission, injuries, damage to property and displacement. To figure the rate of the problem a joint operation is carried out by numerous European countries and is sent to Norway under the name 'The Revival Project'
+
+The countries included are the United Kingdom, Denmark, Germany, Belgium, Finland, Switzerland, Sweden & France. Commencing in 2004.

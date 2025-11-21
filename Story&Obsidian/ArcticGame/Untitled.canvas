@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"33f38713b165bbca","type":"file","file":"The Revival Project.md","x":-200,"y":-360,"width":400,"height":400},
+		{"id":"efae8fb714be1018","type":"text","text":"ALPHA Base\n","x":-125,"y":320,"width":250,"height":60},
+		{"id":"304ac1ef45e8d164","type":"file","file":"(You) Jeremy Miles.md","x":-800,"y":1120,"width":400,"height":400},
+		{"id":"c26058299b2eefd5","type":"text","text":"Personnel","x":-725,"y":800,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"cb6268f39d222c5f","fromNode":"33f38713b165bbca","fromSide":"bottom","toNode":"efae8fb714be1018","toSide":"top"},
+		{"id":"eeaf178ff0f94cbd","fromNode":"efae8fb714be1018","fromSide":"bottom","toNode":"c26058299b2eefd5","toSide":"top"},
+		{"id":"722df3376423fbde","fromNode":"c26058299b2eefd5","fromSide":"bottom","toNode":"304ac1ef45e8d164","toSide":"top"}
+	]
+}
