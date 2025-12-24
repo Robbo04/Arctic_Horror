@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9c125402-5724-46fc-bfcd-4e9e3b476ccf}">
+		<property name="name">
+			<value>OpenType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ade945a3-eca7-47b9-afdf-1cb35b78085a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{96fe885f-8b65-4f74-89da-54796bd90c85}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{96fe885f-8b65-4f74-89da-54796bd90c85}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Cupboard</value>
+			<value>Fridge</value>
+			<value>Draw</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
