@@ -1,0 +1,7 @@
+**STORY**
+You (Jeremy Miles) are hired as a mechanical engineer after recently graduating from SCHOOL NAME. You are hired as a mechanical engineer for NAME HERE. To get to the base you needed to travel across the barren wilderness in a tracked expedition vehicle. As you are heading to your new home a large front sweeps across a large part of Norway taking out power grids and communication towers, delaying your arrival. As you get close the harsh environment makes traversing more and more difficult causing the tracked vehicle to become immobile. 
+
+**GAMEPLAY**
+This section of gameplay will be cinematic starting with large open shots of the blizzard engulfing the screen with the centre frame being the tracked expedition vehicle as it treks through the snow. As this happens a narration telling the current world events leading to this point is told, however it is clear that the narration is cryptic not telling too much of the context of the situation.
+
+When you get to the end of the narration the camera cuts to the first person perspective. where soon after the tracked vehicle gets stuck. You then leave the vehicle and take control of the character. Here you need to follow the lights which leads you to the 1st base ending the prologue. 
