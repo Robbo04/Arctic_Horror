@@ -15,9 +15,9 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -110.84694389301741,
-                  "y": 578.5596239810142,
-                  "zoom": -1.6205702520772127
+                  "x": 94.16981132075438,
+                  "y": -33.4362759818988,
+                  "zoom": -1.0045296584805141
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -77,8 +77,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,12 +197,13 @@
   },
   "active": "3d997052ecd8abbb",
   "lastOpenFiles": [
+    "PROLOGUE.md",
+    "(You) Jeremy Miles.md",
+    "Origin.md",
+    "The Revival Project.md",
     "Untitled.canvas",
     "2025-11-19.md",
-    "(You) Jeremy Miles.md",
-    "The Revival Project.md",
     "Untitled 1.canvas",
-    "Origin.md",
     "Untitled"
   ]
 }
