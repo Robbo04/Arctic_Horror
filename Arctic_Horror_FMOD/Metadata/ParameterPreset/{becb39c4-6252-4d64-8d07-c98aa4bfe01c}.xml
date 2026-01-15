@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{becb39c4-6252-4d64-8d07-c98aa4bfe01c}">
+		<property name="name">
+			<value>DistractionType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ade945a3-eca7-47b9-afdf-1cb35b78085a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{cf1bbb26-0e71-427e-95f9-10d3a65657a2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{cf1bbb26-0e71-427e-95f9-10d3a65657a2}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Microwave</value>
+			<value>TV</value>
+			<value>Telephone</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
