@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ac8b42cd-aa4c-45dc-ae4e-4e9a2a2c235e}">
+		<property name="assetPath">
+			<value>Interaction/microwavewir.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>19.153041666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{33112720-4546-42f5-bcb1-2f6ccc835d79}</destination>
+		</relationship>
+	</object>
+</objects>

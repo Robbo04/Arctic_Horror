@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d60ac635-c1ca-4c7a-b98b-74c148bc7e9f}">
+		<property name="name">
+			<value>StopDistracting</value>
+		</property>
+		<relationship name="folder">
+			<destination>{ade945a3-eca7-47b9-afdf-1cb35b78085a}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3f4934ce-65ea-4a2b-8a5a-7efc42814917}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3f4934ce-65ea-4a2b-8a5a-7efc42814917}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Distracting</value>
+			<value>StopDistracting</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
